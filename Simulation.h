@@ -1,10 +1,3 @@
-/*
- * LocationEstimation.h
- *
- *  Created on: Jun 24, 2016
- *      Author: ericwadkins
- */
-
 #ifndef SIMULATION_H_
 #define SIMULATION_H_
 

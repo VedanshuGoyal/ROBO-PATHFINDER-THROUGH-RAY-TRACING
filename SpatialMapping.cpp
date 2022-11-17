@@ -1,10 +1,3 @@
-/*
- * SpatialMapping.cpp
- *
- *  Created on: Jun 25, 2016
- *      Author: ericwadkins
- */
-
 #include "SpatialMapping.h"
 
 const bool SpatialMapping::allowLocationAccess = true;

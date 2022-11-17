@@ -1,10 +1,3 @@
-/*
- * SpatialMapping.h
- *
- *  Created on: Jun 25, 2016
- *      Author: ericwadkins
- */
-
 #ifndef SPATIALMAPPING_H_
 #define SPATIALMAPPING_H_
 

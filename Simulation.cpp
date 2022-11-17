@@ -1,10 +1,3 @@
-/*
- * LocationEstimation.cpp
- *
- *  Created on: Jun 24, 2016
- *      Author: ericwadkins
- */
-
 #include "Simulation.h"
 
 int Simulation::simulationCount = 0;

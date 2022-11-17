@@ -1,10 +1,3 @@
-/*
- * Ray.h
- *
- *  Created on: Jun 25, 2016
- *      Author: ericwadkins
- */
-
 #ifndef RAY_H_
 #define RAY_H_
 
